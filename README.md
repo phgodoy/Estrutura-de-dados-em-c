@@ -1,4 +1,4 @@
-# Estrutura-de-dados-em-c
+# Estrutura de dados em C
 Algoritimos de ordenação feitos em C
 <p>Lista simples.</p>
 <p><p>Lista dupla.</p>
